@@ -476,5 +476,11 @@
     "name": "Freshrelease",
     "link": "*://*.freshrelease.com/*",
     "script": "freshrelease.js"
+  },
+  "prioritymatrix.com": {
+    "name": "PriorityMatrix",
+    "link": "*://prioritymatrix.com/*,*://*.appfluence.com/*",
+    "script": "prioritymatrix.js",
+    "clone": false
   }
 }
